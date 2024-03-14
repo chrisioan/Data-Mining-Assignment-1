@@ -1,4 +1,4 @@
-# TCP Server/Client
+# Data Mining 1
 
 ## Table of contents
 * [About The Project](#about-the-project)
